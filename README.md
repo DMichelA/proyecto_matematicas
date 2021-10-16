@@ -3,3 +3,4 @@
 * Resta
 * Multiplicación
 * División
+* Archivos derivadas e integrales
