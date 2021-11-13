@@ -29,3 +29,6 @@ poder mostrarte la información y los mecanismos internos que las hacen funciona
 
 Todos aquellos servicios que funcionan online teniendo la información en la nube para poder hacer eso, no hace falta que se monten sus propios servidores, 
 sino utilizar las **API** de los servicios en la nube de empresas como Google, Amazon o Microsoft para poder utilizar los suyos.
+
+# Api de Firebase
+La api de Firebase resulta un metodo sumamente util cuando se desarrolla un proyecto multiplataforma, porque no tienes que preocuparte si el desarrollo del proyecto se traa de una plataforma movil, de escritorio o web, simplmente al utilizarla funcionará de la misma manera, justamente de esa forma es que me ha ayudado a mi.
