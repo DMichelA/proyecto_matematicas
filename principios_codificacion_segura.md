@@ -38,3 +38,6 @@ Registrar al usuario y sus privilegios para cada acción que intente realizar. C
 
 * **Aceptabilidad psicológica:**
 Los mecanismos de seguridad deben ser fáciles de instalar, configurar y usar para que un usuario esté menos tentado a tratar de omitirlos.
+
+## Conclusión
+Por último, es muy importante destacar que cuando alguien va a atacer solamente necesita del más mínimo y pequeño error, cualquier vulnerabilidad para lograr lo que quiera. Si dentro de la empresa se descuidan los temas de seguridad por acelerar la operatividad del negocio, se puede estar dejando la puerta abierta a que se comprometa la seguridad de la información. Ser responsables con los procesos es la mejor defensa, y no está de más preguntarse si es mejor invertir unas semanas más en desarrollo, que perder reputación y dinero en un instante por un incidente de seguridad.
