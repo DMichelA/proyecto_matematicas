@@ -12,3 +12,9 @@ Para los sistemas de comunicación entre máquinas se requiere una serie de cara
 
 * **XML:** está basado en etiquetas, como HTML. Es más tradicional pero también es un lenguaje más avanzado, que presenta diversas utilidades para su extensión, validación de la información y sintaxis de los datos, etc.
 * **JSON:** es un lenguaje más nuevo, basado en sintaxis Javascript. Generalmente, es más ligero y requiere mucho mejor carga del servidor para su procesamiento.
+
+## Utilidad de un web service
+De una manera más clara se podría decir que un web service es una función que diferentes servicios o equipos utilizan; es decir, solo se envían parámetros al servidor (lugar donde está alojado el web service) y éste responderá la petición. 
+* Los servicios Web fomentan los estándares y protocolos basados en texto, que hacen más fácil acceder a su contenido y entender su funcionamiento.
+* Permiten que servicios y software de diferentes compañías ubicadas en diferentes lugares geográficos puedan ser combinados fácilmente para proveer servicios integrados.
+* Permiten la interoperabilidad (capacidad de dos o más sistemas o componentes para intercambiar información y utilizar la información intercambiada) entre plataformas de distintos fabricantes por medio de protocolos estándar y abiertos.
